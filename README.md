@@ -12,8 +12,8 @@
 <div style="background-color:#eaf7ea; padding: 20px;">
     <p style="font-size:20px; font-family:Georgia, serif; line-height: 1.7em; color:#003366;">
       <br>
-        The present documentation describes all the steps that have been taken in the process of data analysis applied to a case study in order to accomplish the Google Data analytics capstone project.
-        This document presents an analysis of Cyclistic's historical trip data to identify trends in bike usage among different customer types. The data was obtained from Motivate International Inc. and covers the previous 12 months of Cyclistic trip data. In order to answer the business questions, we follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+       Data analysis applied to a case study in order to accomplish the Google Data analytics capstone project for Google Data Analytics Certificate on Coursera.
+        This project presents an analysis of Cyclistic's historical trip data to identify trends in bike usage among different customer types. The data was obtained from Motivate International Inc. and covers the previous 12 months of Cyclistic trip data. In order to answer the business questions, we follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
     </p>
 </div>
 
